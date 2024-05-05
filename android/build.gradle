@@ -1,4 +1,4 @@
-group 'co.paystack.flutterpaystack'
+group 'co.paystack.flutterpaystack.simplyalliv'
 version '1.0-SNAPSHOT'
 
 buildscript {
